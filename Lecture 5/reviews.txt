@@ -1,0 +1,39 @@
+Critic Name :Gene Siskel |Review Length :108 |Rating :fresh |Source :Chicago Tribune |Review Date:August 23, 2017
+Critic Name :Duane Byrge |Review Length :232 |Rating :fresh |Source :Hollywood Reporter |Review Date:November 15, 2016
+Critic Name :Jami Bernard |Review Length :151 |Rating :fresh |Source :New York Daily News |Review Date:November 14, 2015
+Critic Name :Lisa Schwarzbaum |Review Length :0 |Rating :rotten |Source :Entertainment Weekly |Review Date:September 7, 2011
+Critic Name :Jonathan Rosenbaum |Review Length :209 |Rating :fresh |Source :Chicago Reader |Review Date:March 24, 2008
+Critic Name :Todd McCarthy |Review Length :235 |Rating :fresh |Source :Variety |Review Date:March 24, 2008
+Critic Name :Rita Kempley |Review Length :20 |Rating :rotten |Source :Washington Post |Review Date:March 24, 2008
+Critic Name :NA |Review Length :164 |Rating :rotten |Source :Time Out |Review Date:June 24, 2006
+Critic Name :Janet Maslin |Review Length :76 |Rating :rotten |Source :New York Times |Review Date:May 20, 2003
+Critic Name :Peter Stack |Review Length :177 |Rating :rotten |Source :San Francisco Chronicle |Review Date:June 18, 2002
+Critic Name :Kevin Thomas |Review Length :66 |Rating :fresh |Source :Los Angeles Times |Review Date:February 14, 2001
+Critic Name :James Berardinelli |Review Length :153 |Rating :rotten |Source :ReelViews |Review Date:January 1, 2000
+Critic Name :Roger Ebert |Review Length :171 |Rating :fresh |Source :Chicago Sun-Times |Review Date:January 1, 2000
+Critic Name :Bruce Westbrook |Review Length :155 |Rating :rotten |Source :Houston Chronicle |Review Date:January 1, 2000
+Critic Name :Mike Clark |Review Length :131 |Rating :rotten |Source :USA Today |Review Date:January 1, 2000
+Critic Name :Milo Miles |Review Length :54 |Rating :rotten |Source :Salon.com |Review Date:January 1, 2000
+Critic Name :Desson Thomson |Review Length :87 |Rating :fresh |Source :Washington Post |Review Date:January 1, 2000
+Critic Name :Susan Stark |Review Length :0 |Rating :fresh |Source :Detroit News |Review Date:January 1, 2000
+Critic Name :NA |Review Length :0 |Rating :rotten |Source :Entertainment Weekly |Review Date:November 15, 1996
+Critic Name :Gene Siskel |Review Length :108 |Rating :fresh |Source :Chicago Tribune |Review Date:August 23, 2017
+Critic Name :Tim Brayton |Review Length :84 |Rating :rotten |Source :Antagony & Ecstasy |Review Date:December 4, 2016
+Critic Name :Duane Byrge |Review Length :232 |Rating :fresh |Source :Hollywood Reporter |Review Date:November 15, 2016
+Critic Name :Jami Bernard |Review Length :151 |Rating :fresh |Source :New York Daily News |Review Date:November 14, 2015
+Critic Name :Brian Orndorf |Review Length :100 |Rating :rotten |Source :BrianOrndorf.com |Review Date:April 5, 2012
+Critic Name :David Nusair |Review Length :30 |Rating :rotten |Source :Reel Film Reviews |Review Date:January 3, 2012
+Critic Name :Peter Canavese |Review Length :107 |Rating :rotten |Source :Groucho Reviews |Review Date:October 14, 2011
+Critic Name :David Gurney |Review Length :47 |Rating :fresh |Source :Common Sense Media |Review Date:January 1, 2011
+Critic Name :Jonathan Rosenbaum |Review Length :209 |Rating :fresh |Source :Chicago Reader |Review Date:March 24, 2008
+Critic Name :NA |Review Length :220 |Rating :fresh |Source :Film4 |Review Date:March 24, 2008
+Critic Name :NA |Review Length :150 |Rating :rotten |Source :TV Guide |Review Date:March 24, 2008
+Critic Name :Todd McCarthy |Review Length :235 |Rating :fresh |Source :Variety |Review Date:March 24, 2008
+Critic Name :Rita Kempley |Review Length :20 |Rating :rotten |Source :Washington Post |Review Date:March 24, 2008
+Critic Name :NA |Review Length :164 |Rating :rotten |Source :Time Out |Review Date:June 24, 2006
+Critic Name :Robin Clifford |Review Length :68 |Rating :rotten |Source :Reeling Reviews |Review Date:April 9, 2005
+Critic Name :Judith Egerton |Review Length :122 |Rating :fresh |Source :Courier-Journal (Louisville, KY) |Review Date:June 23, 2004
+Critic Name :Ryan Cracknell |Review Length :129 |Rating :rotten |Source :Apollo Guide |Review Date:March 7, 2004
+Critic Name :John J. Puccio |Review Length :87 |Rating :rotten |Source :Movie Metropolis |Review Date:November 10, 2003
+Critic Name :Janet Maslin |Review Length :76 |Rating :rotten |Source :New York Times |Review Date:May 20, 2003
+Critic Name :Robert Roten |Review Length :79 |Rating :rotten |Source :Laramie Movie Scope |Review Date:March 16, 2003
